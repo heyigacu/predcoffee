@@ -1,0 +1,272 @@
+Name	Smiles	Odor	Reference	tSNE1	tSNE2	Group	ClosenessCentrality	Color
+2,3-dimethyl-5-isopentylpyrazine	CC1=NC=C(N=C1C)CCC(C)C	coffee	http://www.odour.org.uk/	-2.35	-12.74	37	0.157281542	dark_red
+3-mercapto-5-methyl-4,5-dihydro-2(3H)-thiophenone	CC(S1)CC(S)C1=O	coffee	http://www.odour.org.uk/	-5.02	0.02	64	0.136807419	dark_blue
+2-methyl-3-hydroxy-(4H)-pyran-4-one	CC1=C(C(=O)C=CO1)O	coffee	http://www.odour.org.uk/	10.35	-8.09	48	0.783171704	orange
+2-(2-furyl)thiazole	C1=COC(=C1)C2=NC=CS2	coffee	http://www.odour.org.uk/	15.75	-4.85	22	0.228533255	purple
+2-[(methylthio)methyl]furan	CSCC1=CC=CO1	coffee	http://www.odour.org.uk/	19.71	-4.19	22	0.407927496	purple
+S-2-furfurylthioacetate	COC(CSCC1=CC=CO1)=O	coffee	http://www.odour.org.uk/	21.34	-1.79	22	0.285479962	purple
+2,6- dimethylpyrazine	CC1=CN=CC(=N1)C	coffee	http://dx.doi.org/10.1016/j.supflu.2016.03.008	-3.07	-6.33	37	0.25457969	dark_red
+2,3-Dimethylpyrazine	CC1=NC=CN=C1C	coffee	http://81.68.94.80:8088/	-0.08	-7.79	37	0.256206434	dark_red
+2-Formyl-1H-pyrrole	C1=CNC(=C1)C=O	coffee	http://81.68.94.80:8089/	7.98	-1.97	8	0	gray
+2-Acetylfuran	CC(=O)C1=CC=CO1	coffee	http://81.68.94.80:8090/	16.34	-2.14	22	0.236337012	purple
+Benzothiazole	C1=CC=C2C(=C1)N=CS2	coffee	https://cosylab.iiitd.edu.in/flavordb/	3.01	-5.94	37	0.174542263	dark_red
+2-Methylbutyraldehyde	CCC(C)C=O	coffee	https://cosylab.iiitd.edu.in/flavordb/	-5.69	6.53	64	0.233539588	dark_blue
+Furfuryl Alcohol	C1=COC(=C1)CO	coffee	https://cosylab.iiitd.edu.in/flavordb/	18.09	-4.27	22	0.363692379	purple
+Furfuryl mercaptan	C1=COC(=C1)CS	coffee	https://cosylab.iiitd.edu.in/flavordb/	17.62	-4.6	22	0.332192847	purple
+Benzyl Mercaptan	C1=CC=C(C=C1)CS	coffee	https://cosylab.iiitd.edu.in/flavordb/	5.42	-0.49	201	0.248849785	green
+1-Butanethiol	CCCCS	coffee	https://cosylab.iiitd.edu.in/flavordb/	-1.98	5.53	64	0.183974115	dark_blue
+2,4-Dimethylthiazole	CC1=CSC(=N1)C	coffee	https://cosylab.iiitd.edu.in/flavordb/	-0.87	-3.53	37	0.2066597	dark_red
+2,6-Dimethylphenol	CC1=C(C(=CC=C1)C)O	coffee	https://cosylab.iiitd.edu.in/flavordb/	1.77	-0.14	17	0.968852554	cyan
+Ethyl methyl sulfide	CCSC	coffee	https://cosylab.iiitd.edu.in/flavordb/	-4.31	4.38	64	0.210859614	dark_blue
+2,3,5,6-Tetramethylpyrazine	CC1=C(N=C(C(=N1)C)C)C	coffee	https://cosylab.iiitd.edu.in/flavordb/	-2.4	-4.45	37	0.230367672	dark_red
+1-Furfurylpyrrole	C1=CN(C=C1)CC2=CC=CO2	coffee	https://cosylab.iiitd.edu.in/flavordb/	17.43	-3.69	22	0.32133937	purple
+Dicyclohexyl Disulfide	C1CCC(CC1)SSC2CCCCC2	coffee	https://cosylab.iiitd.edu.in/flavordb/	-3.95	2.33	64	0.172235373	dark_blue
+Difurfuryl Disulfide	C1=COC(=C1)CSSCC2=CC=CO2	coffee	https://cosylab.iiitd.edu.in/flavordb/	19.61	-3.76	22	0.410078412	purple
+2-Methylquinoxaline	CC1=NC2=CC=CC=C2N=C1	coffee	https://cosylab.iiitd.edu.in/flavordb/	-0.43	-6	37	0.255622334	dark_red
+2-Ethyl-5-Methylpyrazine	CCC1=NC=C(N=C1)C	coffee	https://cosylab.iiitd.edu.in/flavordb/	-3.7	-9.57	37	0.216718191	dark_red
+2-Ethyl-3,5-Dimethylpyrazine	CCC1=NC=C(N=C1C)C	coffee	https://cosylab.iiitd.edu.in/flavordb/	-2.18	-9.89	37	0.230451964	dark_red
+2-Methyl-5-Vinylpyrazine	CC1=CN=C(C=N1)C=C	coffee	https://cosylab.iiitd.edu.in/flavordb/	-3.07	-7.53	37	0.257773185	dark_red
+Acetylpyrazine	CC(=O)C1=NC=CN=C1	coffee	https://cosylab.iiitd.edu.in/flavordb/	-5.22	-7.39	37	0.202167012	dark_red
+Furfuryl propionate	CCC(=O)OCC1=CC=CO1	coffee	https://cosylab.iiitd.edu.in/flavordb/	20.25	-7.25	22	0.256653421	purple
+S-Ethyl ethanethioate	CCSC(=O)C	coffee	https://cosylab.iiitd.edu.in/flavordb/	-5.71	8.23	64	0.216347014	dark_blue
+Furfuryl Isopropyl Sulfide	CC(C)SCC1=CC=CO1	coffee	https://cosylab.iiitd.edu.in/flavordb/	20.61	-4.63	22	0.369688505	purple
+2,4,5-Trimethylthiazole	CC1=C(SC(=N1)C)C	coffee	https://cosylab.iiitd.edu.in/flavordb/	-3.11	-3.77	37	0.207433524	dark_red
+2-Methyl-5-(methylthio)furan	CC1=CC=C(O1)SC	coffee	https://cosylab.iiitd.edu.in/flavordb/	7.6	-5.57	32	1.188497651	red
+Difurfuryl sulfide	C1=COC(=C1)CSCC2=CC=CO2	coffee	https://cosylab.iiitd.edu.in/flavordb/	19.52	-3.31	22	0.400364776	purple
+S-Furfuryl thioacetate	CC(=O)SCC1=CC=CO1	coffee	https://cosylab.iiitd.edu.in/flavordb/	19.38	-1.7	22	0.315902815	purple
+2-(Methoxymethyl)furan	COCC1=CC=CO1	coffee	https://cosylab.iiitd.edu.in/flavordb/	18.66	-5.74	22	0.338593698	purple
+5-Methylquinoxaline	CC1=C2C(=CC=C1)N=CC=N2	coffee	https://cosylab.iiitd.edu.in/flavordb/	1.66	-6.82	37	0.213860979	dark_red
+2-Isopropyl-5-methylpyrazine	CC1=CN=C(C=N1)C(C)C	coffee	https://cosylab.iiitd.edu.in/flavordb/	-2.03	-7.38	37	0.273090021	dark_red
+Furfuryl methyl disulfide	CSSCC1=CC=CO1	coffee	https://cosylab.iiitd.edu.in/flavordb/	20.44	-3.71	22	0.388846391	purple
+S-Furfuryl thiopropionate	CCC(=O)SCC1=CC=CO1	coffee	https://cosylab.iiitd.edu.in/flavordb/	19.15	-1.77	22	0.317222418	purple
+2-Furanmethanethiol formate	C1=COC(=C1)CSC=O	coffee	https://cosylab.iiitd.edu.in/flavordb/	18.75	-3.02	22	0.371679604	purple
+2-Thiophenemethanethiol	C1=CSC(=C1)CS	coffee	https://cosylab.iiitd.edu.in/flavordb/	5.34	-3.36	201	0.178850579	green
+Diisoamyl thiomalate	CC(C)CCOC(=O)CC(C(=O)OCCC(C)C)S	coffee	https://cosylab.iiitd.edu.in/flavordb/	2.58	9.3	201	0.123415618	green
+Difurfuryl ether	C1=COC(=C1)COCC2=CC=CO2	coffee	https://cosylab.iiitd.edu.in/flavordb/	18.73	-5.41	22	0.35699813	purple
+Menthofuran	CC1CCC2=C(C1)OC=C2C	coffee	https://cosylab.iiitd.edu.in/flavordb/	-16.27	-7.52	44	651.0665314	gray
+1-Hydroxybutan-2-one	CCC(=O)CO	coffee	https://cosylab.iiitd.edu.in/flavordb/	-5.42	9.03	64	0.202162161	dark_blue
+5-Methyl-2-furanmethanethiol	CC1=CC=C(O1)CS	coffee	https://cosylab.iiitd.edu.in/flavordb/	7.74	-5.2	32	1.173647719	red
+Thiophene-2-thiol	C1=CSC(=C1)S	coffee	https://cosylab.iiitd.edu.in/flavordb/	4.16	-3.44	201	0.175253586	green
+2-methyl-3-(methylthio)furan	CC1=C(C=CO1)SC	coffee	https://cosylab.iiitd.edu.in/flavordb/	10.96	-6.31	48	1.075963303	orange
+Ethyl 3-(furfurylthio)propionate	CCOC(=O)CCSCC1=CC=CO1	coffee	https://cosylab.iiitd.edu.in/flavordb/	22.37	-1.41	22	0.234233729	purple
+4,5-Dimethyl-2-ethyl-3-thiazoline	CCC1N=C(C(S1)C)C	coffee	https://cosylab.iiitd.edu.in/flavordb/	-4.09	-1.94	37	0.158047867	dark_red
+(3R)-3-methylcyclohexane-1,2-dione	CC1CCCC(=O)C1=O	coffee	https://cosylab.iiitd.edu.in/flavordb/	-11.34	-4	67	4.725261758	gray
+2-Hydroxy-3-methylcyclopent-2-en-1-one	CC1CCC(=O)C1=O.CC1=C(C(=O)CC1)O	coffee	https://cosylab.iiitd.edu.in/flavordb/	-11.35	-4.49	67	3.542562609	gray
+3-Hydroxy-4,5-dimethylfuran-2(5H)-one	CC1C(=C(C(=O)O1)O)C	coffee	https://cosylab.iiitd.edu.in/flavordb/	-8.68	-3.85	53	1.828770385	rice
+2-acetyl-6-methyl pyrazine	CC1=CN=CC(=N1)C(=O)C	coffee	http://thegoodscentscompany.com/	-4.6	-7.19	37	0.219821131	dark_red
+2,5-dimethyl-3-thiofuroyl furan	CC1=CC(=C(O1)C)SC(=O)C2=COC=C2	coffee	http://thegoodscentscompany.com/	13.68	-9.26	55	22.98644358	gray
+furfuryl isobutyrate	CC(C)C(=O)OCC1=CC=CO1	coffee	http://thegoodscentscompany.com/	19.97	-6.83	22	0.281540938	purple
+2-[(furan-2-ylmethyl)sulfanyl]-5-methylpyrazine	CC(N=C2)=CN=C2SCC1=CC=CO1	coffee	http://thegoodscentscompany.com/	23.1	-4.59	22	0.239823249	purple
+5-acetyl-2-(furan-2-ylmethylsulfanyl)-2,5-dimethyloxolan-3-one	CC(=O)C1(CC(=O)C(O1)(C)SCC2=CC=CO2)C	coffee	http://thegoodscentscompany.com/	18.85	-0.32	22	0.23609119	purple
+2-ethyl-3,6-dimethyl pyrazine	CCC1=NC(=CN=C1C)C	coffee	http://thegoodscentscompany.com/	-2.19	-10.49	37	0.214320294	dark_red
+2-methyl-3-isopropyl pyrazine	CC1=NC=CN=C1C(C)C	coffee	http://thegoodscentscompany.com/	-0.17	-8.1	37	0.255028778	dark_red
+2,4,6-trimethylphenol	CC1=CC(=C(C(=C1)C)O)C	coffee	http://thegoodscentscompany.com/	1.03	-0.54	17	0.859055057	cyan
+thiophen-2-ylmethanol	C1=CSC(=C1)CO	coffee	http://thegoodscentscompany.com/	5.42	-3.47	201	0.175988485	green
+1-ethyl-2-acetyl pyrrole	CCN1C=CC=C1C(=O)C	coffee	http://thegoodscentscompany.com/	3.52	12.02	63	0	gray
+(S)-2-methyl butyraldehyde	CC[C@H](C)C=O	coffee	http://thegoodscentscompany.com/	-5.69	6.53	64	0.233543329	dark_blue
+(R)-2-methyl butyraldehyde	CC[C@@H](C)C=O	coffee	http://thegoodscentscompany.com/	-5.69	6.53	64	0.233540684	dark_blue
+2,3-butane dithiol	CC(C(C)S)S	coffee	http://thegoodscentscompany.com/	-5.52	3.94	64	0.21074233	dark_blue
+3-methylcyclopentane-1,2-dione	CC1CCC(=O)C1=O	coffee	http://thegoodscentscompany.com/	-11.29	-4.14	67	5.94067849	gray
+6,7-dihydro-2,5-dimethyl-5H-cyclopentapyrazine	CC1CCC2=NC(=CN=C12)C	coffee	http://thegoodscentscompany.com/	-7.33	-11.29	68	27.69764502	gray
+1-(2,4-dimethyl-1,3-thiazol-5-yl)ethanone	CC1=C(SC(=N1)C)C(=O)C	coffee	http://thegoodscentscompany.com/	-3.77	-4.09	37	0.204638602	dark_red
+2-ethylpyrazine	CCC1=NC=CN=C1	coffee	http://thegoodscentscompany.com/	-4.11	-11.31	37	0.173922693	dark_red
+2-hydroxy-3,4,5-trimethyl-2-cyclopenten-1-one	CC1C(C(=O)C(=C1C)O)C	coffee	http://thegoodscentscompany.com/	-8.95	-3.53	53	1.344717711	rice
+3-mercapto-3-methyl butyl formate	CC(C)(CCOC=O)S	coffee	http://thegoodscentscompany.com/	-5.18	14.82	72	1.69719949	gray
+5-methyl furfural	CC1=CC=C(O1)C=O	coffee	http://thegoodscentscompany.com/	7.18	-6.12	32	0.847157298	red
+2-ethoxythiazole	CCOC1=NC=CS1	coffee	http://thegoodscentscompany.com/	2.33	-10.12	37	0.172394178	dark_red
+2-ethyl-4-methyl-1,3-thiazole	CCC1=NC(=CS1)C	coffee	http://thegoodscentscompany.com/	-1.04	-3.27	37	0.201027266	dark_red
+3-sulfanylbutan-2-one	CC(C(=O)C)S	coffee	http://thegoodscentscompany.com/	-7.39	8.32	64	0.205515033	dark_blue
+5-methyl-6,7-dihydro-5H-cyclopentapyrazine	CC1CCC2=NC=CN=C12	coffee	http://thegoodscentscompany.com/	-7.39	-11.32	68	27.69764502	gray
+3-sulfanylhexan-1-ol	CCCC(CCO)S	coffee	http://thegoodscentscompany.com/	-3.63	6.61	64	0.215101845	dark_blue
+1-methyl-4-prop-1-en-2-ylbenzene	CC1=CC=C(C=C1)C(=C)C	coffee	http://thegoodscentscompany.com/	-11.05	0.55	79	1.532671148	gray
+2-ethylfuran	CCC1=CC=CO1	coffee	http://thegoodscentscompany.com/	18.27	-4.64	22	0.367574782	purple
+5-methylhept-2-en-4-one	CCC(C)C(=O)/C=C/C	coffee	http://thegoodscentscompany.com/	-7.06	7.04	64	0.222544773	dark_blue
+2-isopropyl-4-methylthiazole	CC1=CSC(=N1)C(C)C	coffee	http://thegoodscentscompany.com/	-0.44	-3.41	37	0.199866045	dark_red
+3-isobutyl-2-methoxypyrazine	CC(C)CC1=NC=CN=C1OC	coffee	https://doi.org/10.1021/jf304651b	0.74	-11.86	37	0.165986365	dark_red
+2-methoxyphenol	COC1=CC=CC=C1O	coffee	https://dx.doi.org/10.1021/jf300908d	9.42	3.38	91	0.808154842	pink
+3-methyl-2-furfurylthiol	SCC1=C(C)C=CO1	coffee	https://doi.org/10.1021/acs.jafc.8b00857	9.31	-4.07	32	0.557309723	red
+2-methylthiophene-3-thiol	CC1=C(C=CS1)S	coffee	https://doi.org/10.1021/acs.jafc.8b00858	2.97	-3.56	201	0.162482484	green
+4,5,6,7-tetrahydro-3,6-dimethylbenzofuran	CC1CCC2=C(C1)C(=CO2)C	coffee	http://thegoodscentscompany.com/	-16.27	-7.51	44	651.0665314	gray
+5-ethyl-2(3H)-furanone	CCC1=CCC(=O)O1	coffee	https://www.leibniz-lsb.de/en/databases/leibniz-lsbtum-odorant-database/odorantdb/	-0.21	-13.8	88	0	gray
+3-Furanmethanethiol	C1=COC=C1CS	coffee	https://www.leibniz-lsb.de/en/databases/leibniz-lsbtum-odorant-database/odorantdb/	5.9	-1.49	201	0.221254819	green
+(3-thiophenyl)methanethiol	SCC1=CSC=C1	coffee	https://www.leibniz-lsb.de/en/databases/leibniz-lsbtum-odorant-database/odorantdb/	4.43	-1.52	201	0.221474148	green
+4-ethenyl-2,6-dimethoxyphenol	COc1cc(C=C)cc(c1O)OC	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	10.59	3.58	91	1.091662803	pink
+2,6-dimethyloct-7-en-2-yl acetate	C=CC(CCCC(OC(=O)C)(C)C)C	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	-10.73	11.85	209	0.804112982	gray
+(3aR,4R,6R,6aR)-4-methoxy-2,2,6-trimethyl-3a,4,6,6a-tetrahydrofuro[3,4-d][1,3]dioxole	CO[C@@H]1O[C@@H]([C@@H]2[C@H]1OC(O2)(C)C)C	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	-1.4	15.36	93	0	gray
+(3-methyl-1-phenylpentan-3-yl) acetate	CCC(C)(CCc1ccccc1)OC(=O)C	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	5.92	6.86	201	0.174937512	green
+(E)-6-methylhept-3-en-2-one	CC(C)C/C=C/C(=O)C	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	-8.36	8.06	64	0.195649296	dark_blue
+1,2-bis(1-ethoxyethoxy)propane	CCOC(OCC(OC(OCC)C)C)C	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	-5.37	4.8	64	0.223294914	dark_blue
+5-methylthiophene-2-carbaldehyde	Cc1ccc(C=O)s1	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	6.44	-8.02	97	33.28441691	gray
+1-(2,4,4-trimethylcyclohex-2-en-1-yl)but-2-en-1-one	CC=CC(=O)C1CCC(C)(C)C=C1C	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	-13.5	3.29	98	0	gray
+(4S,5R)-5-butyl-4-methyloxolan-2-one	CCCC[C@@H]1[C@@H](C)CC(=O)O1	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	-0.64	3.55	64	0.146192312	dark_blue
+3-methylbut-3-en-1-ol	C=C(C)CCO	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	-8.3	4.47	64	0.195283288	dark_blue
+2,6,10,10-tetramethyl-1-oxaspiro[4.5]decan-6-ol	CC1CCC2(C(C)(C)CCCC2(C)O)O1	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	-6.54	2.88	64	0.188434981	dark_blue
+(4Z,8Z)-1,2,2-trimethyl-13-oxabicyclo[10.1.0]trideca-4,8-diene	CC12OC1CC/C=C\CC/C=C\CC2(C)C	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	-5.18	2.39	64	0.180393402	dark_blue
+2-(4-methylcyclohex-3-en-1-yl)propane-2-thiol	CC1=CCC(CC1)C(C)(C)S	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	-1.5	0.26	37	0.129690945	dark_red
+3,5-di(propan-2-yl)benzaldehyde	O=Cc1cc(cc(c1)C(C)C)C(C)C	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	-6.51	5.07	64	0.223348488	dark_blue
+2-[(E)-2-phenylethenyl]-1,3-dioxolane	C1COC(O1)/C=C/c1ccccc1	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	7.23	0.25	201	0.233781655	green
+(4-methylphenyl) 3-methylbutanoate	CC(CC(=O)Oc1ccc(cc1)C)C	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	-11.85	1.23	79	1.103084067	gray
+(E)-5-(2,3-dimethyl-3-tricyclo[2.2.1.02,6]heptanyl)-2-methylpent-2-en-1-ol	OC/C(=C/CCC1(C)C2CC3C1(C)C3C2)/C	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	-10.37	3.65	64	0.153677046	dark_blue
+3-methylbut-2-en-1-ol	OCC=C(C)C	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	-10.06	4.98	64	0.169686435	dark_blue
+6-methylquinoline	Cc1ccc2c(cccn2)c1	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	1.33	-5.27	37	0.208339064	dark_red
+2-(4-methylcyclohex-3-en-1-yl)propan-2-yl 2-aminobenzoate	CC1=CCC(CC1)C(OC(=O)c1ccccc1N)(C)C	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	-1.15	0.3	37	0.128726093	dark_red
+3,7-dimethylocta-1,6-dien-3-yl butanoate	CCCC(=O)OC(CCC=C(C)C)(C=C)C	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	-12.24	13.03	209	1.488646621	gray
+ethyl (4Z)-octa-4,7-dienoate	CCOC(=O)CC/C=C\CC=C	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	-0.2	12.44	112	37.44589249	gray
+4-(2,2,6-trimethyl-7-oxabicyclo[4.1.0]heptan-1-yl)but-3-en-2-one	CC(=O)C=CC12OC2(C)CCCC1(C)C	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	-8.96	7.08	64	0.192782657	dark_blue
+5,5-dimethyl-2-pentyl-1,3-dioxane	CCCCCC1OCC(CO1)(C)C	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	-0.59	5.81	64	0.158350129	dark_blue
+2,5-dimethylpyrazine	Cc1cnc(C)cn1	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	-2.56	-7.13	37	0.267968351	dark_red
+(2-methyl-4-oxopyran-3-yl) acetate	Cc1c(c(=O)cco1)OC(=O)C	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	10.34	-8.25	48	0.732637392	orange
+2-methylbutan-1-amine	CCC(C)CN	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	-4.6	5.64	64	0.226203878	dark_blue
+2-ethyl-3-methoxypyrazine	COc1nccnc1CC	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	0.5	-11.46	37	0.176949618	dark_red
+3-methylbutyl 3-phenylpropanoate	CC(CCOC(=O)CCc1ccccc1)C	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	4.33	8.13	201	0.150517758	green
+4-[(E)-3-hydroxyprop-1-enyl]-2-methoxyphenol	OC/C=C/c1ccc(c(c1)OC)O	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	11.17	4.43	91	0.882222398	pink
+(5R)-2-methyl-5-[(2S)-6-methylhept-5-en-2-yl]cyclohexa-1,3-diene	CC(=CCC[C@H](C)[C@@H]1C=CC(=CC1)C)C	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	-11.89	4.99	64	0.138686125	dark_blue
+oxolan-2-ylmethanol	C1CC(CO)OC1	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	-4.27	1.4	64	0.157548551	dark_blue
+3,7-dimethyloct-6-enyl (2R)-2-hydroxypropanoate	CC(=CCCC(C)CCOC(=O)[C@@H](C)O)C	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	-13.61	6.98	123	83.89457318	gray
+2-ethyl-6-methylpyrazine	CCc1cncc(C)n1	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	-4.59	-9.67	37	0.196250041	dark_red
+(2E)-1-(1-ethoxyethoxy)-3,7-dimethylocta-2,6-diene	CCOC(C)OC/C=C(\C)/CCC=C(C)C	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	-14.08	9.13	64	0.108546116	dark_blue
+[(1S,2S,5S)-6,6-dimethyl-2-bicyclo[3.1.1]heptanyl]methanol	OC[C@H]1CC[C@H]2C[C@@H]1C2(C)C	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	-8.39	2.31	64	0.162924008	dark_blue
+(3E)-3-benzylidene-1,7,7-trimethylbicyclo[2.2.1]heptan-2-one	O=C1/C(=C/c2ccccc2)/C2C(C1(C)CC2)(C)C	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	8.45	0.49	201	0.201115696	green
+2,4,6-trimethylcyclohex-3-ene-1-carbaldehyde;3,5,6-trimethylcyclohex-3-ene-1-carbaldehyde	CC1=CC(C)C(C)C(C1)C=O.CC1=CC(C)C(C=O)C(C)C1	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	-5.51	-4.24	37	0.173921921	dark_red
+ethyl hex-5-enoate	C=CCCCC(=O)OCC	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	-0.24	12.4	112	37.44589249	gray
+hept-2-enoic acid	CCCCC=CC(=O)O	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	-0.4	9.43	64	0.141180119	dark_blue
+2-phenylethyl 2-methylbutanoate	CCC(C)C(=O)OCCc1ccccc1	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	4.9	6.92	201	0.176680809	green
+(E)-but-2-enoic acid	C/C=C/C(=O)O	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	-7.67	6.72	64	0.216138309	dark_blue
+ethyl 2-benzylbutanoate	CCC(Cc1ccccc1)C(=O)OCC	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	5.6	5.16	201	0.216044906	green
+(2-methylphenyl) 2-methylpropanoate	O=C(C(C)C)Oc1ccccc1C	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	2.49	2.03	17	0.481761261	cyan
+2-methylprop-2-enal	C=C(C)C=O	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	-8	5.34	64	0.208145646	dark_blue
+9-prop-2-enoxytricyclo[5.2.1.02,6]dec-3-ene	C=CCOC1CC2CC1C1C2CC=C1	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	-7.29	1.3	64	0.155075185	dark_blue
+3,3,6-trimethylhepta-1,5-dien-4-ol	C=CC(C)(C)C(C=C(C)C)O	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	-8.98	5.54	64	0.192286983	dark_blue
+[(1R,2S,5R,8S)-4,4,8-trimethyl-1-tricyclo[6.3.1.02,5]dodecanyl] acetate	CC(=O)O[C@]12CCC[C@@](C1)(C)CC[C@@H]1[C@@H]2CC1(C)C	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	-8.24	11.37	64	0.14876382	dark_blue
+2-(8-tricyclo[5.2.1.02,6]decanyl)acetaldehyde	C1CC2C3CC(CC=O)C(C3)C2C1	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	-6.87	-0.31	64	0.131356237	dark_blue
+4-methyl-3-pentyl-1,3-oxazolidin-2-one	CCCCCN1C(C)COC1=O	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	-0.14	4.61	64	0.145600978	dark_blue
+2-methyloct-2-enal	CCCCCC=C(C)C=O	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	0.3	7.63	64	0.141359076	dark_blue
+4-oxo-4-[4-(1,3-thiazol-2-ylsulfamoyl)anilino]butanoic acid;hydrate	O=C(Nc1ccc(cc1)S(=O)(=O)Nc1nccs1)CCC(=O)O.O	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	3.95	-9.56	37	0.147949225	dark_red
+(2S)-4,6,6-trimethylbicyclo[3.1.1]hept-3-en-2-ol	CC1=C[C@H](O)C2CC1C2(C)C	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	-8.96	-0.74	143	3.290288777	gray
+3-methyl-4-phenylbutan-2-ol	CC(Cc1ccccc1)C(C)O	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	5.13	3.7	201	0.251695812	green
+1-(3,4-dihydro-2H-pyrrol-5-yl)propan-1-one	CCC(=O)C1=NCCC1	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	-5.71	11.22	64	0.160283902	dark_blue
+oxacyclohexadecan-2-one	O=C1CCCCCCCCCCCCCCO1	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	-12.1	-8.13	146	2.232785832	yellow
+oct-2-enal	CCCCCC=CC=O	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	-0.15	7.94	64	0.147578081	dark_blue
+2-bromoethenylbenzene	c1ccc(cc1)C=CBr	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	7.17	0.66	201	0.240399059	green
+2-(2,2,3-trimethylcyclopent-3-en-1-yl)acetonitrile	N#CCC1CC=C(C1(C)C)C	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	-17.4	2.05	188	12.47502957	gray
+2,9-dimethyl-6-propan-2-yl-1-oxaspiro[4.5]deca-3,9-diene	CC(C)C1CCC(=CC21C=CC(C)O2)C	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	-6.03	-2.39	37	0.142390703	dark_red
+[(Z)-hex-3-enyl] 2-methylbutanoate	CC/C=C\CCOC(=O)C(CC)C	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	-2.6	11.21	64	0.145512488	dark_blue
+(1S)-4-methyl-1-propan-2-ylcyclohex-3-en-1-ol	CC(C)[C@]1(CC=C(C)CC1)O	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	-2.88	-0.77	37	0.144551695	dark_red
+6-tridecyloxan-2-one	CCCCCCCCCCCCCC1CCCC(=O)O1	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	-14.2	-2.77	153	4.281973746	gray
+4-methyl-2-(2-methylprop-1-enyl)oxane	CC1CCOC(C1)C=C(C)C	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	-9.58	2.69	64	0.154193484	dark_blue
+[(1R,2R,4S)-1,7,7-trimethyl-2-bicyclo[2.2.1]heptanyl] acetate	CC(=O)O[C@@H]1C[C@H]2C([C@@]1(C)CC2)(C)C	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	-8.32	12.96	64	0.126238196	dark_blue
+thiolan-3-one	C1CSCC1=O	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	-10.04	-6.49	156	0	gray
+S-(3-methylbut-2-enyl) 2-methylpropanethioate	CC(=CCSC(=O)C(C)C)C	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	-10.81	6.24	64	0.159762328	dark_blue
+thiophene	c1ccsc1	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	2.54	-2.37	201	0.178450104	green
+S-methyl 4-methylpentanethioate	CC(C)CCC(=O)SC	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	-4.38	8.14	64	0.211020027	dark_blue
+ethyl 2-ethyl-3-methyl-3-phenyloxirane-2-carboxylate	CCC1(C(=O)OCC)C(C)(c2ccccc2)O1	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	6.59	4.66	201	0.216456119	green
+1-(2-methylpyrimidin-4-yl)ethanone	CC(=O)c1ccnc(C)n1	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	-5.67	-6.78	37	0.190214122	dark_red
+3-methylbutyl 3-phenylprop-2-enoate	CC(C)CCOC(=O)C=Cc1ccccc1	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	4.28	8.57	201	0.142376634	green
+cyclohexyl propanoate	CCC(=O)OC1CCCCC1	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	-2.88	3.12	64	0.173424148	dark_blue
+4-(2,6,6-trimethylcyclohex-2-en-1-yl)but-3-en-2-yl acetate	CC1=CCCC(C)(C)C1C=CC(C)OC(=O)C	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	-11.26	9.41	64	0.139444046	dark_blue
+N-phenylacetamide	CC(=Nc1ccccc1)O	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	4.63	1.7	201	0.270757864	green
+(E)-2-methyl-1-methylsulfanylbut-2-ene	C/C=C(\C)/CSC	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	-7.43	3.94	64	0.199712894	dark_blue
+5-butyl-1,4-dioxan-2-one	CCCCC1COC(=O)CO1	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	-0.47	3.53	64	0.143495781	dark_blue
+3,7-dimethyloctan-1-ol	CC(C)CCCC(C)CCO	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	-3.72	7.64	64	0.209615216	dark_blue
+1-methyl-4-prop-1-en-2-ylcyclohexa-1,3-diene	C=C(C)C1=CC=C(C)CC1	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	-11.27	-0.33	79	1.166478131	gray
+2-methylpropyl 2-methylprop-2-enoate	CC(COC(=O)C(=C)C)C	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	-7.92	9.26	64	0.185263757	dark_blue
+(2,2,2-trichloro-1-phenylethyl) acetate	CC(=O)OC(c1ccccc1)C(Cl)(Cl)Cl	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	3.49	3.84	201	0.227529359	green
+2-ethoxyethyl acetate	CCOCCOC(=O)C	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	-6.91	10.08	64	0.178938367	dark_blue
+2-benzyl-1,3-dioxolane	c1ccc(cc1)CC1OCCO1	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	6.01	0.18	201	0.257882042	green
+heptane-2-thiol	CCCCCC(C)S	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	-2.58	6.48	64	0.197496058	dark_blue
+7-hydroxy-3,7-dimethyloctanal;1H-indole	CC(CCCC(C)(C)O)CC=O.c1ccc2c(c1)cc[nH]2	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	8.65	9.34	175	37.58258458	gray
+1,2-dimethoxy-4-prop-1-enylbenzene	CC=Cc1ccc(c(c1)OC)OC	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	10.63	4.59	91	1.031768773	pink
+(1R)-1-phenylethanol	C[C@H](c1ccccc1)O	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	4.57	3.2	201	0.257395637	green
+[(2E,6E)-3,7,11-trimethyldodeca-2,6,10-trienyl] acetate	C/C(=C\CC/C(=C/COC(=O)C)/C)/CCC=C(C)C	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	-13.61	9.59	64	0.111647473	dark_blue
+oxacyclohexadecane-2,13-dione	C1CCCCCC(=O)OCCCC(=O)CCCC1	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	-12	-8.24	146	1.931682239	yellow
+propyl dodecanoate	CCCCCCCCCCCC(=O)OCCC	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	-2.02	9.24	64	0.166076315	dark_blue
+naphthalen-2-yl benzoate	O=C(c1ccccc1)Oc1ccc2c(c1)cccc2	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	6.94	2.39	201	0.246714134	green
+(5R)-5-ethyloxolan-2-one	CC[C@@H]1CCC(=O)O1	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	-13.73	-2.84	153	2.565575483	gray
+8-ethoxy-2,6-dimethyloct-2-ene	CCOCCC(CCC=C(C)C)C	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	-13.59	6.96	123	83.89457318	gray
+2-[(1S)-2,2,3-trimethylcyclopent-3-en-1-yl]ethyl acetate	CC1=CC[C@@H](CCOC(=O)C)C1(C)C	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	-17.37	2.21	188	12.30350615	gray
+6,7,9,9-tetramethyl-2-oxatetracyclo[5.5.0.01,3.08,10]dodecane	CC1CCC2C3(C1(C)C1C(C1(C)C)CC3)O2	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	-6	1.86	64	0.170203521	dark_blue
+2-cyclohexylacetic acid	C1CCC(CC1)CC(=O)O	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	-3.22	2.46	64	0.167305537	dark_blue
+ethyl (2E)-3,7-dimethylocta-2,6-dienoate	CCOC(=O)/C=C(/CCC=C(C)C)\C	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	-13.81	9.92	64	0.108183967	dark_blue
+3-methyl-5-(2,2,3-trimethylcyclopent-3-en-1-yl)pentan-2-ol	CC(CCC1CC=C(C)C1(C)C)C(C)O	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	-17.39	2.13	188	18.53546764	gray
+(1S,5S)-6,6-dimethyl-2-methylidenebicyclo[3.1.1]heptan-3-ol	C=C1[C@H]2C[C@@H](CC1O)C2(C)C	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	-8.99	-0.13	143	3.290288777	gray
+tricyclo[5.2.1.02,6]decan-8-ol	OC1CC2CC1C1C2CCC1	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	-6.87	-0.23	64	0.132460624	dark_blue
+2-phenylpropyl acetate	CC(COC(=O)C)c1ccccc1	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	3.91	4.15	201	0.230175666	green
+decan-2-ol	CCCCCCCCC(O)C	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	-2.3	7.06	64	0.190851024	dark_blue
+2-methylpentyl 2-methylpentanoate	CCCC(COC(=O)C(CCC)C)C	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	-3.7	10.63	64	0.163320692	dark_blue
+1-(2,4-dimethyl-1,3-dioxolan-2-yl)ethanol	CC1COC(C)(C(C)O)O1	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	-10.31	7.66	64	0.165482944	dark_blue
+2-pyridin-2-ylbutan-2-ol	CCC(c1ccccn1)(O)C	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	2.97	-7.82	37	0.178520981	dark_red
+[(3E)-4,8-dimethylnona-3,7-dien-2-yl] acetate	CC(=CCC/C(=C/C(C)OC(=O)C)/C)C	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	-13.17	9.43	64	0.11682503	dark_blue
+2-(4-propan-2-ylcyclohexa-1,4-dien-1-yl)ethyl formate	O=COCCC1=CCC(=CC1)C(C)C	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	-6.27	15.89	72	0.910631642	gray
+2-phenoxyacetic acid	OC(=O)COc1ccccc1	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	6.08	2.38	201	0.26592232	green
+2-phenylethyl 2,2-dimethylpropanoate	CC(C)(C)C(=O)OCCc1ccccc1	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	5.18	6.9	201	0.177241758	green
+(10Z)-1-oxacycloheptadec-10-en-2-one	O=C1CCCCCCC/C=C\CCCCCCO1	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	-12.4	-7.92	146	2.21890002	yellow
+phenol	Oc1ccccc1	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	5.62	1.6	201	0.275279629	green
+6-pent-3-enyloxan-2-one	CC=CCCC1CCCC(=O)O1	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	-14.42	-2.79	153	3.254859643	gray
+furan-2-ylmethyl decanoate	CCCCCCCCCC(=O)OCc1ccco1	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	20.61	-7.72	22	0.23004214	purple
+hexa-2,4-dienyl acetate	CC=CC=CCOC(=O)C	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	-9.29	9.59	64	0.163681208	dark_blue
+undec-2-en-1-ol	CCCCCCCCC=CCO	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	-0.75	7.72	64	0.158987363	dark_blue
+(E)-oct-4-enoic acid	CCC/C=C/CCC(=O)O	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	-0.43	9.94	64	0.136824511	dark_blue
+butyl 2-methylbutanoate	CCCCOC(=O)C(CC)C	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	-2.79	10.93	64	0.15118673	dark_blue
+2,3-di(propanoyloxy)propyl propanoate	CCC(=O)OC(COC(=O)CC)COC(=O)CC	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	-5.02	9.85	64	0.185247524	dark_blue
+[(6E)-3,7-dimethylnona-1,6-dien-3-yl] acetate	CC/C(=C/CCC(OC(=O)C)(C=C)C)/C	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	-12.15	12.99	209	1.565296855	gray
+2-(3-methylphenyl)ethanol	Cc1cccc(CCO)c1	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	2.62	0.12	17	0.76245722	cyan
+5-ethylthiophene-2-carbaldehyde	CCc1ccc(C=O)s1	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	6.48	-8.07	97	33.28441691	gray
+(5Z)-3-methylcyclotetradec-5-en-1-one	CC1C/C=C\CCCCCCCCC(=O)C1	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	-12.95	-7.18	146	1.101742064	yellow
+(3,3,5-trimethylcyclohexyl) acetate	CC1CC(CC(C)(C)C1)OC(=O)C	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	-8.32	12.93	64	0.126683434	dark_blue
+(3,4-dimethoxyphenyl)methanol	COc1cc(CO)ccc1OC	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	10.11	4.71	91	0.933436087	pink
+heptan-1-ol	CCCCCCCO	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	-1.63	7.12	64	0.177860019	dark_blue
+8,8-di(indol-1-yl)-2,6-dimethyloctan-2-ol	CC(CC(n1ccc2c1cccc2)n1ccc2c1cccc2)CCCC(O)(C)C	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	8.63	9.29	175	37.58258458	gray
+7-ethoxy-4-methylchromen-2-one	CCOC1=CC2=C(C=C1)C(C)=CC(=O)O2	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	3.75	-11.83	217	0	gray
+2-hydroxy-3,4-dimethoxybenzaldehyde	COc1c(OC)ccc(c1O)C=O	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	10.11	2.66	91	0.737460805	pink
+methyl 3-(furan-2-ylmethylsulfanyl)propanoate	COC(=O)CCSCc1ccco1	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	21.97	-1.52	22	0.252131143	purple
+S-(2,5-dimethylfuran-3-yl) furan-2-carbothioate	Cc1cc(c(C)o1)SC(=O)c1ccco1	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	13.75	-9.21	55	22.98644358	gray
+2,3-diethyl-5-methylpyrazine	CCc1nc(C)cnc1CC	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	-2.24	-10.01	37	0.226821617	dark_red
+2,3-diethylpyrazine	CCc1nccnc1CC	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	-0.08	-10.49	37	0.206641183	dark_red
+2,3-dimethylquinoxaline	Cc1nc2ccccc2nc1C	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	-0.26	-5.28	37	0.240838462	dark_red
+4-methoxy-2,5-dimethylfuran-3-one	CC1C(=O)C(=C(C)O1)OC	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	-8.51	-4.69	53	1.396415271	rice
+6-methylquinoxaline	Cc1ccc2c(c1)nccn2	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	1.42	-5.58	37	0.210467659	dark_red
+2-butyl-3-methylpyrazine	Cc1nccnc1CCCC	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	-0.01	-9.6	37	0.226501512	dark_red
+2,3,5-trimethylphenol	Cc1cc(C)c(C)c(c1)O	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	0.77	-0.7	17	0.746320598	cyan
+quinoxaline	c1ccc2c(c1)nccn2	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	1.98	-6.26	37	0.202682819	dark_red
+2-propan-2-ylpyrazine	CC(c1nccnc1)C	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	-1.36	-7.96	37	0.269808535	dark_red
+2-ethyl-3-methylpyrazine	CCc1nccnc1C	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	-0.19	-10.08	37	0.217952784	dark_red
+2-ethyl-5-methylpyrazine;2-ethyl-6-methylpyrazine	CCc1cnc(C)cn1.CCc1cncc(C)n1	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	-4.37	-9.77	37	0.199598973	dark_red
+2-ethoxy-3-methylpyrazine	Cc1nccnc1OCC	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	1.22	-9.57	37	0.203535094	dark_red
+2-(cyclohexylmethyl)pyrazine	C1CCC(CC1)Cc1nccnc1	coffee	https://www.aicrowd.com/challenges/learning-to-smell/dataset_files	-4.57	-12.05	37	0.154494707	dark_red
+Acetylmethylpyrazine	CC(=O)c1nccnc1C	coffee	https://doi.org/10.48550/arXiv.1910.10685	-4.68	-6.08	37	0.213382247	dark_red
+Allyl furoate	C=CCOC(=O)c1ccco1	coffee	https://doi.org/10.48550/arXiv.1910.10685	16.17	-1.73	22	0.220867007	purple
+Bisethylthioethane	CCSC(C)SCC	coffee	https://doi.org/10.48550/arXiv.1910.10685	-4.09	4.92	64	0.214795734	dark_blue
+Diethylmethylpyrazine	CCc1cnc(C)c(CC)n1	coffee	https://doi.org/10.48550/arXiv.1910.10685	-2.25	-11.19	37	0.194706343	dark_red
+Dimethylethylthiazole	CCc1nc(C)sc1C	coffee	https://doi.org/10.48550/arXiv.1910.10685	-2.94	-3.31	37	0.197981446	dark_red
+Dimethylfuranone	CC1=CC(=O)C(C)O1	coffee	https://doi.org/10.48550/arXiv.1910.10685	-7.87	-4.27	53	1.338968438	rice
+Dimethylpyridine	Cc1cccnc1C	coffee	https://doi.org/10.48550/arXiv.1910.10685	0.67	-7.32	37	0.240636206	dark_red
+Dimethylpyridine	Cc1cccc(C)n1	coffee	https://doi.org/10.48550/arXiv.1910.10685	-1.2	-4.99	37	0.244849907	dark_red
+Ethanethiol	CCS	coffee	https://doi.org/10.48550/arXiv.1910.10685	-4.6	4.01	64	0.207876142	dark_blue
+Ethyl furfuryl sulfide	CCSCc1ccco1	coffee	https://doi.org/10.48550/arXiv.1910.10685	19.92	-2.9	22	0.380977996	purple
+Ethyldihydrocyclopentapyrazine	CCN1CCN=C2C=CC=C21	coffee	https://doi.org/10.48550/arXiv.1910.10685	-7.78	-8.4	244	0	gray
+Furanmethylthiopentanone	CC(=O)CC(C)SCc1ccco1	coffee	https://doi.org/10.48550/arXiv.1910.10685	20.27	-0.68	22	0.255026977	purple
+Furfurylthiopropanone	CC(=O)CSCc1ccco1	coffee	https://doi.org/10.48550/arXiv.1910.10685	20.58	-1.76	22	0.307331645	purple
+Hexanethiol	CCCCCCS	coffee	https://doi.org/10.48550/arXiv.1910.10685	-1.78	5.84	64	0.181492304	dark_blue
+Mercaptopentanone	CCC(S)C(C)=O	coffee	https://doi.org/10.48550/arXiv.1910.10685	-6.75	8.47	64	0.208954049	dark_blue
+Methoxymethylbutanethiol 	COCCC(C)(C)S	coffee	https://doi.org/10.48550/arXiv.1910.10685	-5.03	14.64	72	1.494757114	gray
+Methyl furfuryl trisulfide	CSSSCc1ccco1	coffee	https://doi.org/10.48550/arXiv.1910.10685	20.78	-3.61	22	0.370375635	purple
+Methyl furfurylthioacetate	COC(=S)CCc1ccco1	coffee	https://doi.org/10.48550/arXiv.1910.10685	17.9	-6.84	22	0.261200933	purple
+Methyl furfurylthiopropionate	COC(=S)C(C)Cc1ccco1	coffee	https://doi.org/10.48550/arXiv.1910.10685	18.12	-7.48	22	0.237026396	purple
+Methyl mercaptan	CS	coffee	https://doi.org/10.48550/arXiv.1910.10685	-5.3	3.17	64	0.196127673	dark_blue
+Methyl methylfurfuryl disulfide	CSSC(C)c1ccco1	coffee	https://doi.org/10.48550/arXiv.1910.10685	13.95	-3.22	254	103.1593363	gray
+Methyl methylfurfuryl sulfide	CSC(C)c1ccco1	coffee	https://doi.org/10.48550/arXiv.1910.10685	13.97	-3.22	254	103.1593363	gray
+Methyl methylfuryl disulfide	CSSc1ccoc1C	coffee	https://doi.org/10.48550/arXiv.1910.10685	11.09	-6.25	48	1.061179525	orange
+Methyl phenyl sulfide	CSc1ccccc1	coffee	https://doi.org/10.48550/arXiv.1910.10685	4.9	1.08	201	0.271800055	green
+Methylfurfurylthiopyrazine	Cc1nccnc1SCc1ccco1	coffee	https://doi.org/10.48550/arXiv.1910.10685	22.27	-3.79	22	0.284525652	purple
+Methylthiophene	Cc1ccsc1	coffee	https://doi.org/10.48550/arXiv.1910.10685	3.15	-1.98	201	0.195686696	green
+Nonenone	C=CC(=O)CCCCCC	coffee	https://doi.org/10.48550/arXiv.1910.10685	-1.78	8.61	64	0.169569832	dark_blue
+Prenylthiol	CC(C)=CCS	coffee	https://doi.org/10.48550/arXiv.1910.10685	-10.03	5.09	64	0.170914278	dark_blue
+Propyl methylfuryl disulfide	CCCSSc1ccoc1C	coffee	https://doi.org/10.48550/arXiv.1910.10685	11.47	-6.01	48	0.845384948	orange
+Thienylethanethiol	CC(S)c1cccs1	coffee	https://doi.org/10.48550/arXiv.1910.10685	4.42	-4.12	201	0.161007636	green
+Trimethylpyrazine	Cc1cnc(C)c(C)n1	coffee	https://doi.org/10.48550/arXiv.1910.10685	-2.51	-8.47	37	0.25707577	dark_red
+Methylfurfurylthiopyrazine	Cc1cncc(SCc2ccco2)n1	coffee	https://doi.org/10.48550/arXiv.1910.10685	23.27	-4.76	22	0.230786298	purple
+Ethyl furylmethylthiocarbonate	CCOC(O)=[SH]Cc1ccco1	coffee	https://doi.org/10.48550/arXiv.1910.10685	17.08	-5.79	22	0.272049136	purple
+Acetaldehyde difurfuryl thioacetal	CC(OCc1ccco1)SCc1ccco1	coffee	https://doi.org/10.48550/arXiv.1910.10685	20.94	-5.38	22	0.326876121	purple
+Furfuryl formate	O=COCc1ccco1	coffee	https://doi.org/10.48550/arXiv.1910.10685	19.3	-5.83	22	0.342349159	purple
+Methylthiazole	Cc1cncs1	coffee	https://doi.org/10.48550/arXiv.1910.10685	-2.4	-5.68	37	0.255975503	dark_red
+Ethyl S-(1-methoxyhexan-3-yl)carbonothioate	CCCC(CCOC)[SH]=C(O)OCC	coffee	https://doi.org/10.48550/arXiv.1910.10685	-3.86	12.9	270	0	gray

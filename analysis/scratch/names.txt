@@ -1,0 +1,271 @@
+smi
+2-butyl-4-methyl-1,3-dioxolane
+1-(1-methoxyethoxy)butane
+1-tert-butyl-3,4,5-trimethyl-2,6-dinitrobenzene
+butane-1,4-diamine
+3-methyl-1H-indole
+""
+4,5-dimethyl-2-(2-methylpropyl)-1,3-oxazole
+""
+5-ethyl-2-hydroxy-3-methylcyclopent-2-en-1-one
+4-hydroxy-2,5-dimethylthiophen-3-one
+""
+2-methyl-5-propan-2-ylpyrazine
+""
+1,2,7,7-tetramethylbicyclo[2.2.1]heptan-2-ol
+2-ethoxy-1-methyl-4-propan-2-ylbenzene
+4-ethylpiperidine
+tricyclo[5.2.1.02,6]decan-8-ol
+2-(3-phenylpropyl)pyridine
+4-methyl-1-prop-1-en-2-ylcyclohex-3-en-1-ol
+2-tert-butyl-4-methylcyclohexan-1-ol
+3-(hydroxymethyl)octan-2-one
+5-ethyl-2-methylpiperidine
+(3E,6E)-nona-3,6-dien-1-ol
+(1R)-1-cyclohexyl-N,N-dimethylethanamine
+cyclohexylmethyl nonanoate
+ethyl 2,6,6-trimethylcyclohexa-1,3-diene-1-carboxylate
+methyl 2-[3-oxo-2-[(Z)-pent-2-enyl]cyclopentyl]acetate
+1-(5,6,7,8-tetrahydronaphthalen-2-yl)ethanone
+2-(5-ethenyl-5-methyloxolan-2-yl)propan-2-ol
+""
+""
+benzyl 3-phenylprop-2-enoate
+2-methyl-5-prop-1-en-2-ylcyclohex-2-en-1-one
+3-(4-propan-2-ylphenyl)butanal
+1-cyclohexyl-1-hydroxybutan-2-one
+2-benzyl-4,4,6-trimethyl-1,3-dioxane
+2-ethoxynaphthalene
+(2E)-1,1-diethoxy-3,7-dimethylocta-2,6-diene
+(2E,6Z)-3,7,11-trimethyldodeca-2,6,10-trien-1-ol
+ethyl furan-2-ylmethylsulfanylformate
+methyl 2-[[4-(4-hydroxy-4-methylpentyl)cyclohex-3-en-1-yl]methylideneamino]benzoate
+2-butoxyethylbenzene
+(5E)-3,5-dimethylocta-1,5,7-trien-3-ol
+7-methyl-3-methylideneoct-6-enal
+4-phenylbutanoic acid
+(Z)-3-phenylprop-2-en-1-ol
+""
+4-methyl-4-sulfanylpentan-2-ol
+2,2-dimethyl-3-phenylmethoxypropanal
+""
+6-methyl-2-(4-methylcyclohex-3-en-1-yl)hept-5-en-2-ol
+(2,4,6-trimethylcyclohex-3-en-1-yl)methanol
+2-cyclohexylethanol
+(5-methyl-2-propan-2-ylcyclohexyl) decanoate
+(E)-8-indol-1-yl-2,6-dimethyloct-7-en-2-ol
+(4-methylphenyl)methanol
+1-ethoxy-3,7-dimethyloctane
+2-hexyl-3-methylcyclopent-2-en-1-one
+1-(2,4-dimethylcyclohex-3-en-1-yl)-2,2-dimethylpropan-1-one
+(E)-undec-9-enal
+3-(4-tert-butylphenyl)propanal
+1,1-dimethoxyoctane
+[(2E)-3,7-dimethylocta-2,6-dienyl] 2-aminobenzoate
+""
+(4-methylphenyl) dodecanoate
+(4-methoxyphenyl)methyl benzoate
+3-(4-methylsulfonylphenyl)propanoic acid
+naphthalen-2-yl(phenyl)methanone
+(2-methyl-4-phenylbutan-2-yl) acetate
+(4E)-4-(4-methylcyclohex-3-en-1-ylidene)pentanal
+1,2,3,4,4a,5,6,7,8,8a-decahydronaphthalen-2-ol
+3-(4-methylphenyl)propanal
+(4-methylphenyl) pentanoate
+octyl 2-phenylacetate
+4-cyclohexyl-2-methylbutanal
+2-ethylbutyl 2-phenoxyacetate
+2-(4-methylphenoxy)acetaldehyde
+(E,7R,11R)-3,7,11,15-tetramethylhexadec-2-en-1-ol
+3-[4-(2-methylpropyl)phenyl]propanal
+(2E)-2-benzylideneheptan-1-ol
+methyl (E)-hex-2-enoate
+2,4,5-trimethyl-1,3-oxazolidine
+(4-formyl-2-methoxyphenyl) 2-methylpropanoate
+ethyl 5-hydroxyoctanoate
+3-methyl-2-[(Z)-pent-2-enyl]cyclopent-2-en-1-one
+heptyl propanoate
+(E)-4-methylpent-2-enoic acid
+2-phenylpropanal
+propan-2-yl 2-phenylpropanoate
+3-phenylpropyl 2-methylpropanoate
+5-propyloxolan-2-one
+4,4,6-trimethyl-2-(2-phenylethyl)-1,3-dioxane
+""
+3,7-dimethyloct-7-enyl butanoate
+ethyl 3-methyl-3-(4-methylphenyl)oxirane-2-carboxylate
+methyl 4,8-dimethylnonanoate
+6-methoxy-2,6-dimethyloctanal
+ethyl 2-acetamidocyclohexane-1-carboxylate
+(2-methyl-4-oxopyran-3-yl) 2-methylpropanoate
+(4-methyl-2-propyloxan-4-yl) acetate
+methyl 3-(2-bicyclo[2.2.1]hept-5-enyl)-3-methyloxirane-2-carboxylate
+3,7-dimethyloctyl formate
+ethyl dec-3-enoate
+6-methylheptyl acetate
+butyl benzoate
+methyl (2Z)-3,7-dimethylocta-2,6-dienoate
+acetic acid;prop-2-enylcyclohexane
+propyl (2E,4E)-deca-2,4-dienoate
+(2-decoxy-1,3-dihydroxypropyl) dodecanoate
+cyclohexylmethyl hexanoate
+2-methylpropanoic acid
+ethyl oct-3-enoate
+methyl (E)-dec-2-enoate
+(2E,6E)-3,7,9-trimethyldeca-2,6-dienal
+(E)-4-(2,5,6,6-tetramethylcyclohexen-1-yl)but-3-en-2-one
+dipropyl propanedioate
+ethyl 2-methylpent-4-enoate
+4-ethyloct-4-en-3-one
+ethyl 2-acetyldecanoate
+2-(2,7-dimethyloct-6-en-4-yloxy)acetaldehyde
+1-(4-methoxyphenyl)-4-methylpent-1-en-3-one
+(1,7,7-trimethyl-2-bicyclo[2.2.1]heptanyl) pentanoate
+cyclohexylmethyl 3-methylbutanoate
+2-acetylcyclopentan-1-one
+1-methoxy-2-phenylbenzene
+(3E)-3,7-dimethylocta-1,3,7-triene
+butyl cyclohexanecarboxylate
+2-hexylthiophene
+""
+(2S,3R,4S,4aR)-2,3,4,7-tetrahydroxy-3,4,4a,5-tetrahydro-2H-[1,3]dioxolo[4,5-j]phenanthridin-6-one
+propan-2-yl 2-hydroxypropanoate
+bis(3-methylbutyl) butanedioate
+but-2-enyl hexanoate
+cyclohexyl cyclohexanecarboxylate
+prop-2-enyl 2-methylbutanoate
+propan-2-yl 4-oxopentanoate
+(2-methylphenyl) 2-methylpropanoate
+""
+3-methylbut-3-enyl acetate
+dimethyl butanedioate
+3,3-dimethoxypropylcyclohexane
+""
+(4-propan-2-ylcyclohexyl) acetate
+butyl 3-methylbutanoate
+1-phenylpentan-1-one
+(2-methoxyphenyl) 2-methylpropanoate
+3-undec-10-enoxypropanenitrile
+pentane-2,3-dione
+4-(4-methoxycyclohexyl)butan-2-one
+""
+ethyl 2-cyclohexylpropanoate
+butanoic acid;prop-2-enylcyclohexane
+methyl (E)-3-cyclohexylprop-2-enoate
+ethoxymethylcyclohexane
+3-methylpentane-2,4-dione
+(2-methyl-5-oxocyclopenten-1-yl) acetate
+(3-benzoyloxyphenyl) benzoate
+1-(oxolan-2-yl)propan-2-one
+2-methyldec-6-en-5-one
+methyl 2-(cyclopenten-1-yl)acetate
+[(E)-hex-2-enyl] butanoate
+cyclohexyl 3-oxobutanoate
+3,7,11-trimethyldodeca-1,6,10-trien-3-yl 2-methylpropanoate
+ethyl 2-hydroxy-2-methylbutanoate
+butan-2-yl hexanoate
+propyl 3-oxobutanoate
+propan-2-yl pentanoate
+2-methylbutyl cyclohexanecarboxylate
+3,7-dimethyloct-6-enyl hexanoate
+3-methylbutyl propanoate
+""
+heptyl 2-hydroxy-2-methyl-3-oxohexanoate
+2-ethylhexyl acetate
+ethyl bicyclo[2.2.1]hept-5-ene-2-carboxylate
+2-methylpropyl 3-(furan-2-yl)propanoate
+2-(2,6,6-trimethylcyclohexen-1-yl)acetaldehyde
+ethyl 3-oxobutanoate
+methyl (E)-non-2-enoate
+(6R)-6-pentyloxan-2-one
+3-heptyl-5-methyloxolan-2-one
+3,7-dimethyloct-6-enyl 2-methylbut-2-enoate
+propan-1-ol
+1-ethoxyheptane
+dimethyl decanedioate
+methyl 4-methylpentanoate
+2-cyclohexylpropanal
+propyl (2E,4Z)-hexa-2,4-dienoate
+2,3-diacetyloxypropyl acetate
+propyl (Z)-2-methylbut-2-enoate
+3-heptyloxolan-2-one
+benzaldehyde
+prop-2-enyl 2-cyclohexyloxyacetate
+3-methylbutyl decanoate
+(2-methylcyclohexyl)methyl acetate
+oxolan-2-ylmethyl pentanoate
+2-methylhexanoic acid
+hexan-3-one
+""
+methyl pentanoate
+(5E)-6,10-dimethylundeca-5,9-dien-2-one
+[(Z)-hex-3-enyl] octanoate
+3,7-dimethyloct-6-enyl pentanoate
+(2E,6E)-nona-2,6-dienal
+2-(1-ethoxyethoxy)ethylcyclohexane
+2-ethyl-5-methoxybicyclo[2.2.1]heptane
+phenol
+4-methyl-1H-quinolin-2-one
+N,2-diethyl-3-methyl-2-propan-2-ylbutanamide
+6-methyl-3-propan-2-ylcyclohex-2-en-1-one
+(1R,5S)-2-methyl-5-prop-1-en-2-ylcyclohex-2-en-1-ol
+2,2-dimethylpentan-3-one
+(2R,5R)-2-methyl-5-prop-1-en-2-ylcyclohexan-1-one
+(1R,4S,5R,6R,7S,10R)-4,10-dimethyl-7-propan-2-yltricyclo[4.4.0.01,5]decan-4-ol
+(5-methyl-2-propan-2-ylcyclohexyl) 2-oxopyrrolidine-1-carboxylate
+azepan-2-one
+2-(2-methylphenyl)-1,3-benzothiazole
+2,6-dimethylpiperidine
+hexa-1,5-diene-3,4-diol
+5,7,7-trimethyloct-2-enenitrile
+2-(2,2-dimethylpropanoyl)indene-1,3-dione
+hexacyclo[10.10.2.02,7.09,23.013,18.020,24]tetracosa-1(23),2,4,6,8,10,12(24),13,15,17,19,21-dodecaene
+6-methyl-2-sulfanylidene-1H-pyrimidin-4-one
+potassium;(2R,3S,4R,5R)-2,3,4,5,6-pentahydroxyhexanoate
+2,2-bis(hydroxymethyl)propane-1,3-diol
+4-amino-1-[5-(hydroxymethyl)oxolan-2-yl]pyrimidin-2-one
+N-[(4-hydroxy-3-methoxyphenyl)methyl]-8-methyldec-6-enamide
+4-(5-methyl-2-propan-2-ylcyclohexyl)oxy-4-oxobutanoic acid
+naphthalen-1-ylthiourea
+(2E,4E)-5-(3a,4,5,6,7,7a-hexahydro-1,3-benzodioxol-5-yl)-1-piperidin-1-ylpenta-2,4-dien-1-one
+2-amino-3-methylpentanoic acid
+4-[[3-[(2,4-diaminophenyl)diazenyl]phenyl]diazenyl]benzene-1,3-diamine
+(8S,9S,10R,13S,14S,17R)-17-hydroxy-17-(2-hydroxyacetyl)-10,13-dimethyl-6,7,8,9,12,14,15,16-octahydrocyclopenta[a]phenanthrene-3,11-dione
+(2R,4S,5S)-2-[(2S,4R,5R)-3,4-dihydroxy-2,5-bis(hydroxymethyl)oxolan-2-yl]oxy-6-(hydroxymethyl)oxane-3,4,5-triol
+2-[2-(2-ethoxyethoxy)ethoxy]ethanol
+1,2-dihydropyridazine-3,6-dione
+3-amino-4-[(1-methoxy-1-oxo-3-phenylpropan-2-yl)amino]-4-oxobutanoic acid
+1-isothiocyanato-2-methylpropane
+but-3-en-2-one
+2-(1-ethoxyethoxy)propane
+5-isothiocyanatopent-1-ene
+2-(sulfanylmethyl)butanal
+(Z)-2-methylbut-2-enoic acid
+dodeca-2,4-dienal
+(1E,5E)-1,5-dimethyl-8-propan-2-ylidenecyclodeca-1,5-diene
+methylsulfanylbenzene
+4,12,12-trimethyl-9-methylidene-5-oxatricyclo[8.2.0.04,6]dodecane
+5-methylchromen-2-one
+3-methyl-4-(2,6,6-trimethylcyclohexen-1-yl)but-3-en-2-ol
+3a,6,6,9a-tetramethyl-1,4,5,5a,7,8,9,9b-octahydrobenzo[e][1]benzofuran-2-one
+1-heptylcyclopropane-1-carboxylic acid
+cyclohexadecanone
+(4Z,8Z)-1,2,2-trimethyl-13-oxabicyclo[10.1.0]trideca-4,8-diene
+""
+(1aR,4R,7bS)-1,1,4,7-tetramethyl-1a,2,3,4,4a,5,6,7b-octahydrocyclopropa[e]azulene
+5-methyl-2-prop-1-en-2-ylcyclohexan-1-ol
+3,5-dimethylcyclohexan-1-ol
+1-methoxy-1-methylcyclododecane
+(1aS,4aS,8aS)-2,4a,8,8-tetramethyl-1,1a,4,5,6,7-hexahydrocyclopropa[j]naphthalene
+(1aR,4aR,7R,7aR,7bS)-1,1,7-trimethyl-4-methylidene-2,3,4a,5,6,7,7a,7b-octahydro-1aH-cyclopropa[e]azulene
+2,6,6-trimethyl-8-methylidenetricyclo[5.3.1.01,5]undecane
+(4-butan-2-ylcyclohexyl) acetate
+(2-butan-2-yl-1-ethynylcyclohexyl) acetate
+(1R,5R)-6,6-dimethyl-2-methylidenebicyclo[3.1.1]heptane
+3,7-dimethyl-2-methylideneoct-6-enal
+3-(4-tert-butylphenyl)-2-methylprop-2-enal
+(1R,2S,5S)-2,6,6-trimethylbicyclo[3.1.1]heptan-2-ol
+1,6-dimethyl-4-propan-2-yl-3,4,4a,5,6,7,8,8a-octahydro-2H-naphthalen-1-ol
+2,4,4-trimethyl-3-[(E)-3-oxobut-1-enyl]cyclohex-2-en-1-one
+2-methylnonanal
+3-methyl-4-(2,6,6-trimethylcyclohexen-1-yl)butan-2-one

@@ -155,7 +155,6 @@ class train_gnn(object):
         rst = []
         for epoch in range(1, epochs+1):
             loss_train = 0.
-            acc_train=0.
             model.train()
             for batch_idx,(train_graphs,train_labels) in enumerate(all):
                 graphs, labels = train_graphs.to(device), train_labels.to(device)
@@ -165,20 +164,11 @@ class train_gnn(object):
                     logits = model(graphs, graphs.ndata.pop('h'))
                 loss = CrossEntropyLoss()(logits, labels)
                 loss_train += loss.detach().item()
-                try:
-                    acc,auc = acc_auc(labels.cpu().numpy(), logits.detach().cpu().numpy())
-                except:
-                    acc,auc =acc,auc
-                acc_train += acc
-                auc_train += auc
                 optimizer.zero_grad()
                 loss.backward()
                 optimizer.step()
             loss_train /= (batch_idx+1)
-            acc_train /= (batch_idx+1)
             torch.save(model.state_dict(), save_folder+save_name)
-            if epoch%1 == 0:
-                print('loss:',loss_train,'ACC:',acc_train) 
     @staticmethod
     def test_bi_classify(model, test=None, edge=True, save_path=PWD+'/pretrained/gnn.pth',classnames=['Bitter','Sweet']):
         state_dict = torch.load(save_path)

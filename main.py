@@ -9,6 +9,9 @@ from collections import Counter
 from model import MLP, MPNN
 from trainer import train_mlp, train_ml, train_gnn
 import numpy as np
+from sklearn.ensemble import RandomForestClassifier
+
+from sklearn import svm
 
 parent_dir = os.path.abspath(os.path.dirname(__file__))
 print(parent_dir)
@@ -117,35 +120,63 @@ def gnn_bi_class():
     kfolds = BaseDataLoader.load_data_kfold_graph_batchsize(tuple_ls, batchsize, Stratify=True, drop_last=True)
     print('mpnn start training!')
     rst_gnn, best_epoch = train_gnn.train_bi_classify_kfolds(model, kfolds=kfolds, edge=True, max_epochs=500, patience=7, save_folder=parent_dir+'/pretrained/',save_name='gnn.pth')
+    print(best_epoch)
     print('optimization finished!', rst_gnn)
     return rst_gnn
 
 
 def total():
-    # SVMGridSearchCV()
-    # RFGridSearch()
+    SVMGridSearchCV()
+    RFGridSearch()
     total_rst = []
     for i in range(10):
-        rst_mlp = mlp_bi_class()
-        from sklearn import svm
         svm_paras = {'C': 1, 'gamma': 0.1, 'kernel': 'rbf', 'probability':True}
         model =svm.SVC(**svm_paras)
-        rst_svm = svm_bi_class(model)
         rf_paras = {'max_depth': 6, 'max_features': 'log2', 'min_samples_leaf': 50, 'min_samples_split': 2, 'n_estimators': 100}
-        from sklearn.ensemble import RandomForestClassifier
         model = RandomForestClassifier(**rf_paras)
+        rst_mlp = mlp_bi_class()
+        rst_svm = svm_bi_class(model)
         rst_rf = rf_bi_class(model)
         rst_gnn = gnn_bi_class()
         total_rst += [rst_mlp, rst_rf, rst_svm, rst_gnn]
     np.savetxt(parent_dir+"/analysis/model_result/performance.txt", np.array(total_rst))
 
+
+def train_all():
+    # MLP
+    tuple_ls = list(zip(features, labels))
+    batchsize = int(len(tuple_ls)/16)
+    drop_last = True
+    n_feats = 2048
+    n_hiddens = 256
+    n_tasks = 2
+    model = MLP(n_feats=n_feats, n_hiddens=n_hiddens, n_tasks=n_tasks)
+    all = BaseDataLoader.load_data_all_torch_batchsize(tuple_ls, batchsize, drop_last=True)
+    train_mlp.train_bi_classify_all(model, all=all, epochs=3, save_folder=parent_dir+'/pretrained/',save_name='all_mlp.pth')
+
+    # SVM
+    svm_paras = {'C': 1, 'gamma': 0.1, 'kernel': 'rbf', 'probability':True}
+    model =svm.SVC(**svm_paras)
+    train_ml.train_classify_all(model, tuple_ls, save_path=parent_dir+'/pretrained/all_svm.pth')
+
+    # RF
+    rf_paras = {'max_depth': 6, 'max_features': 'log2', 'min_samples_leaf': 50, 'min_samples_split': 2, 'n_estimators': 100}
+    model = RandomForestClassifier(**rf_paras)
+    train_ml.train_classify_all(model, tuple_ls, save_path=parent_dir+'/pretrained/all_rf.pth')
+
+
+    # MPNN
+    tuple_ls = list(zip(graphs, labels))
+    n_feats = 74
+    edge_in_feats = 12
+    n_tasks = 2
+    node_out_feats = 256
+    edge_hidden_feats = 256
+    batchsize = 32
+    all = BaseDataLoader.load_data_all_graph_batchsize(tuple_ls, batchsize, drop_last=True)
+    model = MPNN(node_in_feats=n_feats, edge_in_feats=edge_in_feats, node_out_feats=node_out_feats, edge_hidden_feats=edge_hidden_feats, n_tasks=n_tasks)
+    train_gnn.train_bi_classify_all(model, all=all, edge=True, epochs=14, save_folder=parent_dir+'/pretrained/', save_name='all_mpnn.pth') 
+
 total()
-tuple_ls = list(zip(features, labels))
-batchsize = int(len(tuple_ls)/16)
-drop_last = True
-n_feats = 2048
-n_hiddens = 256
-n_tasks = 2
-model = MLP(n_feats=n_feats, n_hiddens=n_hiddens, n_tasks=n_tasks)
-all = BaseDataLoader.load_data_all_torch_batchsize(tuple_ls, batchsize, drop_last=True)
-rst_mlp = train_mlp.train_bi_classify_all(model, all=all, epochs=3, save_folder=parent_dir+'/pretrained/',save_name='all_mlp.pth')
+train_all() 
+

@@ -29,10 +29,6 @@ def ennUS(X,y):
     return X_resampled, y_resampled
 
 
-
-
-
-
 class BaseDataLoader(object):
     @staticmethod
     def dgl_collate(sample):
@@ -61,12 +57,12 @@ class BaseDataLoader(object):
             vals = [tuple_ls[index] for index in val_idxs]
             kfolds.append((trains,vals))
         return kfolds
-    
+
     @staticmethod
     def load_data_all_torch_batchsize(tuple_ls, batchsize, drop_last=True):
         random.shuffle(tuple_ls)
         return DataLoader(tuple_ls, batch_size=batchsize, shuffle=True, collate_fn=None, drop_last=drop_last)
-    
+
     @staticmethod
     def load_data_kfold_torch_batchsize(tuple_ls, batchsize, Stratify=True, drop_last=True, sample_method=SMOTEOS):
         random.shuffle(tuple_ls)
@@ -88,12 +84,13 @@ class BaseDataLoader(object):
             vals = DataLoader(vals,batch_size=len(vals), shuffle=True,)
             kfolds.append((trains,vals))
         return kfolds
-    
+
+
     @staticmethod
     def load_data_all_graph_batchsize(tuple_ls, batchsize, drop_last=True):
         random.shuffle(tuple_ls)
         return DataLoader(tuple_ls, batch_size=batchsize, shuffle=True, collate_fn=BaseDataLoader.dgl_collate, drop_last=drop_last)
-    
+
     @staticmethod
     def load_data_kfold_graph_batchsize(tuple_ls, batchsize, Stratify=True, drop_last=True):
         random.shuffle(tuple_ls)
@@ -110,9 +107,6 @@ class BaseDataLoader(object):
             trains = DataLoader(trains, batch_size=batchsize, shuffle=True, collate_fn=BaseDataLoader.dgl_collate, drop_last=drop_last)
             vals = [tuple_ls[index] for index in val_idxs]
             vals = DataLoader(vals,batch_size=len(vals), shuffle=True, collate_fn=BaseDataLoader.dgl_collate, drop_last=drop_last)
-            kfolds.append((trains,vals))
+        kfolds.append((trains,vals))
         return kfolds
-
-
-
 
